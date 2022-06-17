@@ -1,0 +1,14 @@
+[
+  {
+    "package": "IRdisplay",
+    "oncran": true
+  },
+  {
+    "package": "IRkernel",
+    "oncran": true
+  },
+  {
+    "package": "repr",
+    "oncran": true
+  }
+]
