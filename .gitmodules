@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "IRdisplay"]
-	path = IRdisplay
-	url = https://github.com/irkernel/irdisplay
+[submodule "repr"]
+	path = repr
+	url = https://github.com/irkernel/repr
 	shallow = true
 	registered = true
 [submodule "IRkernel"]
@@ -13,8 +13,8 @@
 	url = https://github.com/irkernel/irkernel
 	shallow = true
 	registered = true
-[submodule "repr"]
-	path = repr
-	url = https://github.com/irkernel/repr
+[submodule "IRdisplay"]
+	path = IRdisplay
+	url = https://github.com/irkernel/irdisplay
 	shallow = true
 	registered = true
