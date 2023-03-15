@@ -1,6 +1,6 @@
 [
   {
-    "package": "repr",
+    "package": "IRdisplay",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "IRdisplay",
+    "package": "repr",
     "oncran": true
   }
 ]
